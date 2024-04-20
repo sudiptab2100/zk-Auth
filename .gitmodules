@@ -1,0 +1,6 @@
+[submodule "Fiat-Shamir-NIZKP-Auth-Solidity"]
+	path = Fiat-Shamir-NIZKP-Auth-Solidity
+	url = https://github.com/sudiptab2100/Fiat-Shamir-NIZKP-Auth-Solidity.git
+[submodule "zkSNARK-Auth-JS"]
+	path = zkSNARK-Auth-JS
+	url = https://github.com/sudiptab2100/zkSNARK-Auth-JS.git
